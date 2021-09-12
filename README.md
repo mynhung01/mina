@@ -1,8 +1,21 @@
 ### Hi there 👋, My name is Nhung Le
-![](https://scontent.fdad1-2.fna.fbcdn.net/v/t1.6435-9/p960x960/139145726_1424389871232031_7393500255574871219_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=e3f864&_nc_ohc=WUs_s8YC8gwAX-WS4KH&tn=gOSgXAlNK91VjDRA&_nc_ht=scontent.fdad1-2.fna&oh=0c59c32635ab0a76e053a804e9cf3824&oe=6164AD83)
+<img src="https://github.com/mynhung01/mina/blob/main/nhuq.jpg" width="750" height="350">
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/mynhung01/count.svg" />
+</p>
 
-- 🔭 I’m currently working on this page. 
+## About me
+I'm a student at FPT University . My major is **Software Engineering** .I'm living now in **Ho Chi Minh City, Viet Nam**
+
+## Things I am passionate about
+
+- Play instrument 
+- Learn Janpanese ☀️
+## 🌐: Connect me via:
+[![Gmail](https://img.shields.io/twitter/url?label=Gmail&logo=gmail&url=https://gmail.com)](mailto:mynhungchibi@gmail.com) [![Instagram](https://img.shields.io/twitter/url?label=Instagram&logo=instagram&style=social&url=https://www.instagram.com/_huynh.tien.5536_/)](https://www.instagram.com/myna.01/) [![Facebook](https://img.shields.io/twitter/url?label=Facebook&logo=facebook&url=https://www.facebook.com/tien.huynhlethuy.tn/)](https://www.facebook.com/myNhuq01/) 
+
 
 
 
