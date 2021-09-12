@@ -15,8 +15,8 @@ I'm a student at FPT University . My major is **Software Engineering** .I'm livi
 - Play instrument 
 - Learn Janpanese ☀️
 ##  I am focusing on:
-👉 Font-end : HTML/CSS
-👉 Back-end : Java with MVC ......
+- Font-end : HTML/CSS
+- Back-end : Java with MVC ......
 ## 🌐: Connect me via:
 [![Gmail](https://img.shields.io/twitter/url?label=Gmail&logo=gmail&url=https://gmail.com)](mailto:mynhungchibi@gmail.com) [![Instagram](https://img.shields.io/twitter/url?label=Instagram&logo=instagram&style=social&url=https://www.instagram.com/_huynh.tien.5536_/)](https://www.instagram.com/myna.01/) [![Facebook](https://img.shields.io/twitter/url?label=Facebook&logo=facebook&url=https://www.facebook.com/tien.huynhlethuy.tn/)](https://www.facebook.com/myNhuq01/) 
 
