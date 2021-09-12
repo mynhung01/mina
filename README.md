@@ -2,10 +2,10 @@
 ### Hi there 👋, My name is Nhung Le
 <img src="https://github.com/mynhung01/mina/blob/main/nhuq.jpg" width="750" height="350">
 
-<p align="center"> 
+<h1 align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/mynhung01/count.svg" />
-</p>
+</h1>
 
 ## About me
 I'm a student at FPT University . My major is **Software Engineering** .I'm living now in **Ho Chi Minh City, Viet Nam**
